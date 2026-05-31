@@ -1,0 +1,11 @@
+.env
+src/faiss_index/
+src/faiss_medical_index/
+src/pending_updates/
+src/update_log.json
+__pycache__/
+*.pyc
+dataset/medquad/
+.DS_Store
+dataset/.DS_Store
+src/.DS_Store
